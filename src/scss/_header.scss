@@ -1,0 +1,16 @@
+header{
+    background-color: #FFEEDF;
+    .inner{
+        display: flex;
+        padding: 0 30px;
+        justify-content: center;
+        align-items: center;
+        .logo-wrap{
+            margin: 4px 0;
+            width: 122px;
+            img{
+                width: 100%;
+            }
+        }
+    }
+}
