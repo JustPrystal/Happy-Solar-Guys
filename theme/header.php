@@ -20,7 +20,11 @@
     
     <?php wp_head();?>    
     <meta name="author" content="<?php bloginfo('name'); ?>" />
-    
+    <style>
+      html{
+        margin-top: 0 !important;
+      }
+    </style>
   </head>
   <body class="<?php 
   
